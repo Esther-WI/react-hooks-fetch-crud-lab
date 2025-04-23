@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "prompt": "What is the capital of Kenya?",
+      "answers": ["Nairobi", "Mombasa", "Kisumu", "Eldoret"],
+      "correctIndex": 0
+    },
+    {
+      "id": 2,
+      "prompt": "What is 2 + 2?",
+      "answers": ["3", "4", "5", "22"],
+      "correctIndex": 1
+    }
+  ]
+}
